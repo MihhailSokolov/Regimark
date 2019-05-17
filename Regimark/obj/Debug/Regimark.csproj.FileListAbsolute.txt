@@ -1,0 +1,32 @@
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\bin\Debug\Regimark.exe.config
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\obj\Debug\Regimark.csprojResolveAssemblyReference.cache
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\obj\Debug\Regimark.Form1.resources
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\obj\Debug\Regimark.Properties.Resources.resources
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\obj\Debug\Regimark.csproj.GenerateResource.Cache
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\bin\Debug\Regimark.exe
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\bin\Debug\Regimark.pdb
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\obj\Debug\Regimark.exe
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\obj\Debug\Regimark.pdb
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\obj\Debug\Regimark.Form2_5A.resources
+C:\Users\mihha\AppData\Local\Temporary Projects\Regimark\obj\Debug\Regimark.Form3_5B.resources
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\bin\Debug\Regimark.exe.config
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.exe
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.pdb
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\bin\Debug\Regimark.exe
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\bin\Debug\Regimark.pdb
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.csprojResolveAssemblyReference.cache
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.Properties.Resources.resources
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.csproj.GenerateResource.Cache
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.classForm1.resources
+C:\Users\mihha\Box Sync\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.mainForm.resources
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\bin\Debug\Regimark.exe.config
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\bin\Debug\Regimark.exe
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\bin\Debug\Regimark.pdb
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.csprojAssemblyReference.cache
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.mainForm.resources
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.classForm1.resources
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.Properties.Resources.resources
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.csproj.GenerateResource.cache
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.csproj.CoreCompileInputs.cache
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.exe
+C:\Users\mihha\Box\Programming Projects\Visual C#\Regimark\Regimark\obj\Debug\Regimark.pdb
